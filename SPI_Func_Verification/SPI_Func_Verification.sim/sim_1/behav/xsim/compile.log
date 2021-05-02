@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/MASTER_COURSE/FUNC_VERIFICATION/PROJE/SPI/SPI_Func_Verification/SPI_Func_Verification.srcs/sim_1/new/SPI_Master.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SPI_Master
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/MASTER_COURSE/FUNC_VERIFICATION/PROJE/SPI/SPI_Func_Verification/SPI_Func_Verification.srcs/sim_1/new/SPI_Master_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SPI_Master_tb
